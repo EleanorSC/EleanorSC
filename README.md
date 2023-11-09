@@ -3,7 +3,7 @@
 <--
 
 ### About me:
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a ✨_postdoc_✨ at the University of Edinbrugh
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a ✨ _postdoc_ ✨ at the University of Edinbrugh
 
 - 🌱  My research looks how we can use multi-omics to understand brain ageing 
 - 🌱 I’m currently learning ...
