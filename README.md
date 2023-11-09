@@ -1,8 +1,9 @@
 
 ### About me:
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a ✨ _postdoc_ ✨ at the University of Edinbrugh
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-- 🌱  My research looks how we can use multi-omics to understand brain ageing 
+- 🌱  My research looks how we can use multi-omics to understand brain ageing
+- :crocodile: I'm working on [Vue](https://github.com/EleanorSC/ENIGMA_Cortical_EWAS)
 - :fairy: Ask me about ...
 - :mountain_snow: How to reach me: eleanor.conole@ed.ac.uk 
 
