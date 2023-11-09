@@ -3,8 +3,6 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a ✨ _postdoc_ ✨ at the University of Edinbrugh
 
 - 🌱  My research looks how we can use multi-omics to understand brain ageing 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - :fairy: Ask me about ...
 - :mountain_snow: How to reach me: eleanor.conole@ed.ac.uk 
 
@@ -23,6 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab"  alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" title="SPSS" **alt="SPSS" width="40" height="40"/>
 </div>
 
 -->
