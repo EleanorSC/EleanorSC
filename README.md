@@ -5,13 +5,8 @@
 - 🌱  My research looks how we can use multi-omics to understand brain ageing
 - :herb: I'm working on [ENIGMA-Epigenetics Consortium](https://github.com/EleanorSC/ENIGMA_Cortical_EWAS), [proteome-connectome project in UKBiobank](https://github.com/EleanorSC/UKB_PPP_project) & [DNAm signatures of brain ageing in STRADL](https://github.com/EleanorSC/Inflammatory-DNAm_STRADL)
 - :lizard: I'm currently learning [fastai](https://github.com/EleanorSC/fastai)
-- :fairy: Ask me about neuroiflammation & epigenetic tooling
+- :fairy: Ask me about _neuroiflammation_ & _epigenetic tooling_
 - :mountain_snow: How to reach me: eleanor.conole@ed.ac.uk 
-
----
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EleanorSC&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
@@ -30,4 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original-wordmark.svg" title="OpenSuse" **alt="OpenSuse" width="40" height="40"/>
 </div>
 
--->
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EleanorSC&theme=dark&background=000000)](https://git.io/streak-stats)
+
+---
+
