@@ -5,11 +5,11 @@
 
 ### :woman_technologist: About me: I'm a postdoc at the University of Edinbrugh
 
-- 🔭 My research looks how we can use multi-omics to understand brain ageing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱  My research looks how we can use multi-omics to understand brain ageing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - :fairy: Ask me about ...
-- :mountain_snow: How to reach me: eleanor.conole@ed.ac.uk | [![Linkedin Badge](https://img.shields.io/badge/-eleanor-conole-blue?style=flat&logo=Linkedin&logoColor=white)]([eleanor-conole-43675022b](https://www.linkedin.com/in/eleanor-conole-43675022b)
+- :mountain_snow: How to reach me: eleanor.conole@ed.ac.uk 
 
 ---
 
@@ -20,7 +20,7 @@
 ### :hammer_and_wrench: Languages and Tools : 
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/r-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
