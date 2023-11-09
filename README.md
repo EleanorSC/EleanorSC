@@ -3,7 +3,8 @@
 <--
 **EleanorSC/EleanorSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a postdoc at the University of Edinbrugh
+### About me:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm a postdoc at the University of Edinbrugh
 
 - 🌱  My research looks how we can use multi-omics to understand brain ageing 
 - 🌱 I’m currently learning ...
