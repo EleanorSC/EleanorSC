@@ -5,8 +5,9 @@
 
 ### :woman_technologist: About me: I'm a postdoc at the University of Edinbrugh
 
-- 🌱  My research looks how we can use multi-omics to understand brain ageing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🌱  My research looks how we can use multi-omics to understand brain ageing 
 - 🌱 I’m currently learning ...
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm currently writing a paper on proteomic signatures of inflammation in relation to the brain structural connectome in UKBiobank
 - 👯 I’m looking to collaborate on ...
 - :fairy: Ask me about ...
 - :mountain_snow: How to reach me: eleanor.conole@ed.ac.uk 
