@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
 - 🌱  My research looks how we can use multi-omics to understand brain ageing
-- :herb: I'm working on [ENIGMA-Epigenetics Consortium](https://github.com/EleanorSC/ENIGMA_Cortical_EWAS)
+- :herb: I'm working on [ENIGMA-Epigenetics Cortical EWAS 2023](https://github.com/EleanorSC/ENIGMA_Cortical_EWAS)
 - :lizard: I'm currently learning [fastai](https://github.com/EleanorSC/fastai)
 - :fairy: Ask me about _neuroinflammation_ & _epigenetic tooling_
 - :mountain_snow: How to reach me: eleanor.conole@ed.ac.uk 
