@@ -25,9 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opensuse/opensuse-original-wordmark.svg" title="OpenSuse" **alt="OpenSuse" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=EleanorSC&theme=dark)](https://git.io/streak-stats)
 
 ---
 
