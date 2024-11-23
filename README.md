@@ -6,7 +6,7 @@
 - :herb: I'm working on [ENIGMA-Epigenetics Cortical EWAS 2023](https://github.com/EleanorSC/ENIGMA_Cortical_EWAS)
 - :lizard: I'm currently learning [fastai](https://github.com/EleanorSC/fastai)
 - :fairy: Ask me about _neuroinflammation_ & _epigenetic tooling_
-- :mountain_snow: How to reach me: eleanor.conole@ed.ac.uk 
+- :mountain_snow: How to reach me: eleanor.conole@bioch.ox.ac.uk
 
 ---
 
