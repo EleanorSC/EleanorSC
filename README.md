@@ -28,3 +28,54 @@
 
 ---
 
+## My work
+I'm a Junior Research Fellow in Applied AI at **Lady Margaret Hall** at the University of Oxford. I work across large-scale longitudinal cohort data (UK Biobank, Generation Scotland, Lothian Birth Cohorts, Stratifying Longitudinal Resilience and Depression Cohort, and Theirworld Edinburgh Birth Cohort) using [machine learning to identify epigenomic biomarkers of brain ageing](https://www.lmh.ox.ac.uk/our-people/dr-eleanor-conole)
+
+Across projects, I aim to follow open, transparent, and reproducible research practices. Where possible, analyses are shared as documented, reusable code to support collaboration, review, and reuse.
+
+Before working in AI, I did a Wellcome Trust PhD in **Translational Neuroscience** at the University of Edinburgh, where I worked in the [**Lothian Birth Cohorts group**]([(https://github.com/LothianBirthCohorts)])). 
+
+<details>
+
+## Selected publications and research outputs
+
+
+**Reviews and perspectives**
+- **Epigenetic clocks and DNA methylation biomarkers of brain health and disease**  
+  *Nature Reviews Neurology* (2025)  
+  https://doi.org/10.1038/s41582-025-01105-7  
+  Review of methylation-based biomarkers for brain ageing and neurological disease, with emphasis on translational and clinical relevance.
+
+**Original research**
+- **DNA methylation and protein markers of chronic inflammation and their associations with brain and cognitive aging**  
+  *Neurology* (2021)  
+  https://doi.org/10.1212/WNL.0000000000012997  
+  Population-based analysis linking inflammatory biomarkers with brain structure and cognitive outcomes.
+
+- **Immuno-epigenetic signature derived in saliva associates with perinatal inflammatory disorders**  
+  *Brain, Behavior, and Immunity* (2023)  
+  https://doi.org/10.1016/j.bbi.2023.03.011  
+  Development and validation of saliva-derived epigenetic signatures of inflammation.
+
+- **Epigenetic scores derived in saliva are associated with gestational age at birth**  
+  *Clinical Epigenetics* (2024)  
+  https://doi.org/10.1186/s13148-024-01618-5  
+  Application of epigenetic scoring approaches in early-life cohorts.
+
+- **Life-course neighbourhood deprivation and brain structure in older adults**  
+  *Molecular Psychiatry* (2024)  
+  https://doi.org/10.1038/s41380-024-02459-3  
+  Analysis of socioeconomic exposures across the lifecourse in relation to later-life brain structure.
+
+**Commentary**
+- **Chronic inflammation and brain health: the case for early monitoring**  
+  *Neurology* (2024)  
+  https://doi.org/10.1212/WNL.0000000000209613  
+  Editorial on inflammation, prevention, and opportunities for early intervention.
+
+A full and up-to-date publication list is available via Google Scholar:  
+https://scholar.google.com/citations?user=klj4X0sAAAAJ
+
+<details>
+  
+
