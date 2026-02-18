@@ -89,7 +89,7 @@ Before working in AI, I did a Wellcome Trust PhD in **Translational Neuroscience
   https://doi.org/10.1016/j.bbi.2021.03.020  
   Neuroimaging study linking circulating and epigenetic markers of inflammation with regional brain structure
 
-A full and up-to-date publication list is available via Google Scholar:  
+A full and up-to-date publication list is available via my Google Scholar:  
 https://scholar.google.com/citations?user=klj4X0sAAAAJ
 
 <details>
