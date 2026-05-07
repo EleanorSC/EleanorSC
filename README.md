@@ -29,13 +29,10 @@
 ---
 
 ## My work
-I'm a Junior Research Fellow in Applied AI at **Lady Margaret Hall** at the University of Oxford. I work across large-scale longitudinal cohort data (UK Biobank, Generation Scotland, Lothian Birth Cohorts, Stratifying Longitudinal Resilience and Depression Cohort, and Theirworld Edinburgh Birth Cohort) using [machine learning to identify epigenomic biomarkers of brain ageing](https://www.lmh.ox.ac.uk/our-people/dr-eleanor-conole)
+I'm a Junior Research Fellow in Applied AI at the University of Oxford. I work across large-scale longitudinal cohort data (UK Biobank, Generation Scotland, Lothian Birth Cohorts, Stratifying Longitudinal Resilience and Depression Cohort, and Theirworld Edinburgh Birth Cohort) using [machine learning to identify epigenomic biomarkers of brain ageing](https://www.lmh.ox.ac.uk/our-people/dr-eleanor-conole)
 
-Across projects, I aim to follow open, transparent, and reproducible research practices. Where possible, analyses are shared as documented, reusable code to support collaboration, review, and reuse.
+Previosuly I worked as a postdoc in the [**Lothian Birth Cohorts group**]([(https://github.com/LothianBirthCohorts)]) at the University of Edinburgh. 
 
-Before working in AI, I did a Wellcome Trust PhD in **Translational Neuroscience** at the University of Edinburgh, where I worked in the [**Lothian Birth Cohorts group**]([(https://github.com/LothianBirthCohorts)]). 
-
-<details>
 
 ## Selected publications and research outputs
 
@@ -46,6 +43,8 @@ Before working in AI, I did a Wellcome Trust PhD in **Translational Neuroscience
   https://doi.org/10.1038/s41582-025-01105-7  
   Review of methylation-based biomarkers for brain ageing and neurological disease, with emphasis on translational and clinical relevance.
 
+<details>
+  
 - **Chronic inflammation and brain health: the case for early monitoring** *Neurology* (2024) https://doi.org/10.1212/WNL.0000000000209613 Editorial on inflammation, prevention, and opportunities for early intervention.'
 
 **Original research**
