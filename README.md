@@ -4,7 +4,6 @@
 
 - 🌱  My research looks how we can use multi-omics to understand brain ageing
 - :herb: I'm working on [ENIGMA-Epigenetics Cortical EWAS 2026](https://github.com/EleanorSC/ENIGMA_Cortical_EWAS)
-- :lizard: I'm currently learning [fastai](https://github.com/EleanorSC/fastai)
 - :mountain_snow: How to reach me: eleanor.conole@bioch.ox.ac.uk
 
 ---
